@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Traditional Healing Practices in the Philippines</title>
+<body>
+<body bgcolor="76453B"
+<style>
+<img src="novaturient.jpg" style="width:1350px;height:480px;">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #B19470;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>Traditional Healing Practices in the Philippines</h1>
+  <p>The traditional or folk medicine practice has been a part of the Filipino culture. Despite the Philippine’s development in the field of science and technology, these traditional or folk medicine practices have survived and are preserved through the years by passing wisdom down from one generation to another. They have been considered an alternative treatment and an alternative healing methods of people suffering from extreme poverty and living in remote areas that is difficult to be reached by healthcare services. Thus, members of the community still turn to herbal treatment when using modern medicine is unable to heal their disease.</p>
+
+<p>According to Filipino legend, “usog” is a sickness that is caused by greeting someone, especially a newborn. Infants and young children are especially vulnerable to this ailment, which can cause everything from a stomachache to a high fever. It is stated that a simple greeting or compliment can activate this hex, and saying "puwera usog” breaks it. It is customary to say "pwera usog", which means "bless" the newborn with spit. Some people even do this ritual before the baby exhibits any symptoms, believing it would ward off any illnesses the baby might contract.</p>
+
+<p>Another traditional medicine practice is the practice of “tuob”. "Tuob" is a healing ritual in which people prepare burning charcoal within a coconut shell. To treat skin infection or skin allergies, one can put certain herbal plants inside the coconut shell, and the ritual also involves mixing “sinamak”, “lukay” and candle that are both blessed with holy water, and dry “kamangyan, that are then burned with charcoal to make thin smoke, which is then moved around the house first and then the patient seven times.</p>
+
+<p>“Sugma” is also viewed as traditional medicine practice in the Philippines. This healing method is done wherein non-medical traditional healer called “manugsugma” will put leaves of plants with medicinal values like “bunga”, “buyo”, “dueaw”, “eabigan”, “sibuyas costa”, “herbang malibunog”, “herbang maningasinga”, “kusoe”, and “apog” into a cloth which will then be rubbed onto the area where a patient experiences pain. It is believed that the cause of the discomfort will then be transferred to the cloth, revealing several “wood sticks”. Patients who experienced the treatment believe that the relief of pain is caused by this healing method.</p>
+
+	<p>Even in today’s modern time, there are still Filipinos who have faith in the traditional or folk medicine practices as they are rooted in our ancestor’s beliefs. It is good that our generation gets to know these folk medicine practices despite the fast-changing world as they are part of our culture and the wisdom attached to it must be valued and preserved as it may guide as in our future’s endeavor. However, it is necessary that we must equipped ourselves with the knowledge of standard of care. Everyone should have the initiative to seek medical help especially when health is compromised. Healthcare services are made available in all parts of the country to deliver health services for promotion, protection, preservation or restoration of the health of the people.</p>
+ 
+</div>
