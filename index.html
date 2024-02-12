@@ -25,19 +25,21 @@ html {
 }
 
 .column {
-  float: left;
+  float: center;
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh; 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
 }
 
 .about-section {
@@ -48,21 +50,13 @@ html {
 }
 
 .container {
- position: absolute;
- padding: 0 16px;
+  padding: 0 16px;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  height: 100vh; 
-}
-
-.container img {
-  max-width: 100%; 
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .title {
@@ -108,7 +102,7 @@ html {
       <img src="quotes.jpg" style="width:100%">
       <div class="container">
         <h2> My Favourite Nursing Quotes</h2>
-	<a href="Inspirational.html">
+	<a href="inspirational.html">
         <p><button class="button">Visit</button></p>
 	</a>
       </div>
@@ -118,11 +112,11 @@ html {
 
   
   <div class="column">
-    <div class="container">
+    <div class="card">
       <img src="traditional.jpg" style="width:100%">
       <div class="container">
         <h2>Traditional Healing Practices in the Philippines</h2>
-	<a href="Traditional.html">
+	<a href="traditional.html">
         <p><button class="button">Visit</button></p>
 	</a>
       </div>
