@@ -44,14 +44,11 @@ html {
 }
 
 .container {
- 
- position: absolute;
  padding: 0 16px;
 }
 
 .container::after, .row::after {
   position: absolute;
-  align: center
   content: "";
   clear: both;
   display: table;
