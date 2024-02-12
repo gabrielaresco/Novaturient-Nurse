@@ -96,7 +96,7 @@ html {
       <img src="quotes.jpg" style="width:100%">
       <div class="container">
         <h2> My Favourite Nursing Quotes</h2>
-	<a href="Inspirational.html">
+	<a href="Inspirational2.html">
         <p><button class="button">Visit</button></p>
 	</a>
       </div>
@@ -110,7 +110,7 @@ html {
       <img src="traditional.jpg" style="width:100%">
       <div class="container">
         <h2>Traditional Healing Practices in the Philippines</h2>
-	<a href="Traditional.html">
+	<a href="Traditional2.html">
         <p><button class="button">Visit</button></p>
 	</a>
       </div>
@@ -123,7 +123,7 @@ html {
       <div class="container">
 <h2 style="text-align:center; ">
         <h2>Tips to Prevent High Blood Pressure that I Want My Loved Ones to Know.</h2>
-	<a href="Bloodpressure.html">
+	<a href="Bloodpressure2.html">
         <p><button class="button">Visit</button></p>
 	</a>
       </div>
